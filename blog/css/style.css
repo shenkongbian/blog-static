@@ -1736,7 +1736,7 @@ body.is-navSticky .nav-logo:hover .nav-logo-popout {
 
     .nav-sections > li a, .post-body a .nav-sections > li strong {
         font-weight: 500;
-        text-transform: uppercase;
+        /*text-transform: uppercase;*/
         color: rgba(0, 0, 0, 0.8);
         display: block;
         height: 48px;
