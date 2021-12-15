@@ -2161,7 +2161,7 @@ Prism.plugins.toolbar.registerButton('show-language', function(env) {
 			}
 		};
 
-		script.src = 'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js';
+		script.src = '/blog/code_prettify/clipboard.min.js';
 		head.appendChild(script);
 	}
 
